@@ -291,7 +291,7 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {},--Sudo users
+    sudo_users = {211987159},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎Tele Dead Final Version😎
